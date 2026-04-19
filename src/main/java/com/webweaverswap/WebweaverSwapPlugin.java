@@ -59,8 +59,7 @@ import net.runelite.client.plugins.PluginDescriptor;
 @PluginDescriptor(
 	name = "Webweaver Swap",
 	description = "Swap Webweaver bow visuals to Craw's bow",
-	tags = {"bow", "craw", "ranged", "webweaver"},
-	enabledByDefault = false
+	tags = {"bow", "craw", "ranged", "webweaver"}
 )
 public class WebweaverSwapPlugin extends Plugin
 {
